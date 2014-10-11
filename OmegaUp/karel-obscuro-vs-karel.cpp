@@ -1,3 +1,5 @@
+//https://omegaup.com/arena/problem/karel-obscuro-vs-karel
+
 #include <cstdio>
 #include <queue>
 #include <iostream>
