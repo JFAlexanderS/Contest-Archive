@@ -1,3 +1,5 @@
+//https://omegaup.com/arena/IOI_2015_TN#problems/Rambo-III
+
 #include <cstdio>
 #include <algorithm>
 #include <map>
