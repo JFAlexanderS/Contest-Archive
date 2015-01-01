@@ -1,4 +1,4 @@
-http://www.spoj.com/problems/SOLIT/
+//http://www.spoj.com/problems/SOLIT/
 
 #include <iostream>
 #include <cstdio>
