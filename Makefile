@@ -4,7 +4,7 @@
 #
 
 all:
-	g++ main.cpp -o main -std=c++11 -Wall -Wshadow -g3
+	g++ main.cpp -o main -std=c++11 -Wall -Wshadow -g3 -g
 
 
 # vim:ft=make
