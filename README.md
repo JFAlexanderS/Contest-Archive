@@ -1,4 +1,4 @@
 Contest-Archive
 ===============
 
-A collection of most ACs I have for different contests. 
+A collection of some ACs I have for different contests. 
